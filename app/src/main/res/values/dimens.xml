@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_main_paddingBottom">16dp</dimen>
+    <dimen name="activity_main_paddingRight">16dp</dimen>
+    <dimen name="activity_main_paddingLeft">16dp</dimen>
+    <dimen name="activity_main_paddingTop">16dp</dimen>
+</resources>

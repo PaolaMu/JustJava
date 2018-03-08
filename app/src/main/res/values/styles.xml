@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <!-- Override the app bar color -->
+        <item name="colorPrimary">@color/my_orange</item>
+        <!-- Darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">@color/my_orange_dark</item>
+        <!-- Override the color of UI controls -->
+        <item name="colorAccent">@color/my_orange_accent</item>
+    </style>
+
+</resources>
+
+
+
